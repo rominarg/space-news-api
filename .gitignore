@@ -1,0 +1,53 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ======================
+# Entornos virtuales
+# ======================
+venv/
+env/
+.venv/
+ENV/
+
+# ======================
+# Streamlit
+# ======================
+.streamlit/
+*.log
+
+# ======================
+# Jupyter / pandas (si usás notebooks o dataframes exportados)
+# ======================
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+
+# ======================
+# Variables de entorno
+# ======================
+.env
+.env.*
+
+# ======================
+# IDEs y editores
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================
+# Sistema operativo
+# ======================
+.DS_Store
+Thumbs.db
