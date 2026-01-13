@@ -2,6 +2,8 @@
 
 # 🚀 Noticias del Espacio — Space News App
 
+<img width="532" height="579" alt="api_python" src="https://github.com/user-attachments/assets/270aa5b1-77a8-4a19-92c9-bbc0fc391686" />
+
 Aplicación web desarrollada en **Python + Streamlit** que consume una API pública para mostrar las últimas noticias del espacio en tiempo real, filtrando contenido oficial de la NASA.
 
  **Demo en vivo:** [https://space-news.streamlit.app/](https://space-news.streamlit.app/)
@@ -11,7 +13,7 @@ Aplicación web desarrollada en **Python + Streamlit** que consume una API públ
 - Python 3
 - Streamlit
 - Requests
-- **Deep Translator** 
+- Deep Translator 
 - Spaceflight News API
 
 ##  Funcionalidades
