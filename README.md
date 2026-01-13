@@ -1,34 +1,36 @@
 # 🚀 Noticias del Espacio — Space News App
 
-Aplicación web desarrollada en **Python + Streamlit** que consume una API pública
-para mostrar las últimas noticias del espacio en tiempo real.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://space-news.streamlit.app/)
+
+Aplicación web desarrollada en **Python + Streamlit** que consume una API pública para mostrar las últimas noticias del espacio en tiempo real, filtrando contenido oficial de la NASA.
+
+🔗 **Demo en vivo:** [https://space-news.streamlit.app/](https://space-news.streamlit.app/)
 
 ## 🔧 Tecnologías utilizadas
 
 - Python 3
 - Streamlit
 - Requests
-- Spaceflight News API 
+- **Deep Translator** (Nueva funcionalidad de traducción)
+- Spaceflight News API
 
 ## ✨ Funcionalidades
 
-- Consulta de noticias espaciales en tiempo real
-- Visualización de títulos, imágenes y resúmenes
-- Enlaces directos a la fuente original
-- Manejo de errores de conexión
-- Interfaz simple y responsiva
+- Consulta de noticias espaciales de la NASA en tiempo real.
+- **Traducción instantánea:** Opción desplegable para traducir títulos y resúmenes de inglés a español.
+- Visualización de títulos, imágenes y resúmenes.
+- Enlaces directos a la fuente original.
+- Manejo de errores de conexión.
+- Interfaz simple y responsiva.
 
-## 1. Install dependencies 
+## ⚙️ Instalación y Configuración
 
-```
-pip install -r requirements.txt
-```
-## 2. Create a virtual environment  
+## 1. Create a virtual environment  
 ```
 python -m venv venv 
 ```
 
-## 3. Activate the virtual environment (Windows)  
+## 2. Activate the virtual environment (Windows)  
 
 ```
 .\venv\Scripts\activate
@@ -38,4 +40,10 @@ python -m venv venv
 
 ```
 streamlit run news_app.py
+```
+
+## Install dependencies 
+
+```
+pip install -r requirements.txt
 ```
