@@ -1,8 +1,6 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://space-news.streamlit.app/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+
 # 🚀 Noticias del Espacio — Space News App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://space-news.streamlit.app/)
-
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 Aplicación web desarrollada en **Python + Streamlit** que consume una API pública para mostrar las últimas noticias del espacio en tiempo real, filtrando contenido oficial de la NASA.
 
