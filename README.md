@@ -2,19 +2,21 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://space-news.streamlit.app/)
 
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 Aplicación web desarrollada en **Python + Streamlit** que consume una API pública para mostrar las últimas noticias del espacio en tiempo real, filtrando contenido oficial de la NASA.
 
-🔗 **Demo en vivo:** [https://space-news.streamlit.app/](https://space-news.streamlit.app/)
+ **Demo en vivo:** [https://space-news.streamlit.app/](https://space-news.streamlit.app/)
 
-## 🔧 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python 3
 - Streamlit
 - Requests
-- **Deep Translator** (Nueva funcionalidad de traducción)
+- **Deep Translator** 
 - Spaceflight News API
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Consulta de noticias espaciales de la NASA en tiempo real.
 - **Traducción instantánea:** Opción desplegable para traducir títulos y resúmenes de inglés a español.
@@ -23,7 +25,7 @@ Aplicación web desarrollada en **Python + Streamlit** que consume una API públ
 - Manejo de errores de conexión.
 - Interfaz simple y responsiva.
 
-## ⚙️ Instalación y Configuración
+##  Instalación y Configuración
 
 ## 1. Create a virtual environment  
 ```
